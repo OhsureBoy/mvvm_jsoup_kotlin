@@ -1,4 +1,4 @@
-"# mvvm_jsoup_kotlin" 
+# mvvm_jsoup_kotlin
 
 Gradle 7.2 <br>
 minSdk 24 <br>
