@@ -11,7 +11,9 @@ Jsoup lib -> Crawling ImgUrl<br>
 
 
 
-MVVM, JetPack, Jsoup, URL, GridManager, Repository, Glide <br>
+MVVM, JetPack, Jsoup, URL, GridManager, Repository, Glide 
+<br>
+<br>
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/47763201/163080075-8d20bf55-28bd-4bd7-9888-474d89a05eaa.gif)
