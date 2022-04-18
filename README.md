@@ -1,5 +1,5 @@
 # mvvm_jsoup_kotlin
-
+<br>
 Gradle 7.2 <br>
 minSdk 24 <br>
 targetSdk 31 <br>
@@ -11,7 +11,7 @@ Jsoup lib -> Crawling ImgUrl<br>
 
 
 
-MVVM, JetPack, Jsoup, URL, GridManager, Repository, Glide 
+MVVM, JetPack, Jsoup, URL, GridManager, Repository, Glide <br>
 <br>
 <br>
 
